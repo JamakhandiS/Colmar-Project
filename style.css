@@ -1,0 +1,96 @@
+
+header h3{
+
+    margin:32px 0px 16px 24px;
+    text-align: left
+    
+}
+#head{
+    margin-top:24px
+}
+header h4{
+    /* padding-right: 48px;  */
+    margin: 16px 16px;
+    text-align: right;
+}
+.col .txt{
+
+    margin-left: 24px; 
+    margin-top: 140px;
+    
+}
+#part1{
+    background-color: rgb(209, 208, 208);
+    margin: 32px 0px 32px 24px;
+}
+.banner img{
+    margin: 32px 0px 32px 24px;
+}
+.txt button{
+    margin-left: 32px;
+}
+.ii2 , #vid{
+    margin-left: 60px;
+}
+.img3{
+    margin-top:24px
+}
+.txt1{
+    text-align: left;
+    margin-top: 50px;
+}
+#ii2{
+    margin: 32px 14px;
+
+}
+
+
+.c1{
+    background-color:  rgb(209, 208, 208);
+    padding-top: 32px;
+}
+.c1 h2{
+    margin:32px 32px;
+    text-align: center;
+}
+.c1 .row{
+    padding: 10px 90px 10px 90px;
+    margin-left: 75px;
+}
+.r3{
+    background-color: white;
+    flex-grow:0 ;
+    padding-bottom: 30px;
+}
+.txt2 {
+    margin-left:20px
+}
+.c1 .col{
+    flex-grow: 0;
+}
+.c1 h5{
+    margin-top: 15px;
+}
+.c2{
+    text-align: center;
+}
+#ex {
+    margin-top: 4px;
+}
+#th1 , #guest{
+    background-color: rgb(235, 237, 238);
+}
+#guest .col{
+    height:200px;
+    
+}
+footer #l{
+    margin-left: 40px;
+}
+footer #r{
+    text-align: right;
+    margin-right: 40px;
+}
+#reimg{
+    margin-left:8px;
+}
